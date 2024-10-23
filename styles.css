@@ -148,4 +148,9 @@ span {
         height: 50px;
         font-size: 24px;
     }
+    .text{
+        font-size: 24px;
+        font-weight: bold;
+        
+    }
 }

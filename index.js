@@ -1,3 +1,5 @@
+
+
 let trueCounter = 0;
 let falseCounter = 0;
 let emptyCounter = 0;
