@@ -78,7 +78,6 @@
     background-color: rgb(28, 165, 211);
 }
 span {
-    margin:5px;
     min-width: 150px; 
     text-align: center;
     font-size: 130px;
@@ -86,7 +85,11 @@ span {
     display: inline-block;
     white-space: nowrap;
 }
-
+.text{
+    font-size: 36px;
+    font-weight: bolder;
+    color: white;
+}
 /* Ekran genişliği 768px veya daha küçükse */
 @media (max-width: 768px) {
     .true,.false,.empty{
